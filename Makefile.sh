@@ -23,7 +23,7 @@
 # Example:   ./Makefile.sh 10 0 "[+] Compilation Successful !"
 
 
-# Now you can literally use that inside your makefile
+#  Now you can literally use that inside your makefile
 
 
 # ------------------------------------------------ #
